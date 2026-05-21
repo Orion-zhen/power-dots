@@ -11,3 +11,9 @@ Install-Module -Name Terminal-Icons,posh-git,PSFzf,PSReadLine,Microsoft.PowerShe
 ```powershell
 git clone https://github.com/Orion-zhen/power-dots.git Ducoments/PowerShell
 ```
+
+可选: 安装软件依赖:
+
+```powershell
+winget install microsoft.git junegunn.fzf sharkdp.fd sharkdp.bat burntsushi.ripgrep.msvc eza-community.eza fastfetch-cli.fastfetch starship.starship ajeetdsouza.zoxide atuinsh.atuin
+```
